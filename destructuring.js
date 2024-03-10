@@ -19,7 +19,7 @@ function destructuring(obj) {
     return [name, city, country];
 }
 
-const person1 = { name: 'John', city: 'New York' };
+const person1 = { name: 'Adeola', city: 'Lagos' };
 const person2 = { name: 'Alice' };
 const person3 = { city: 'Paris', country: 'France'};
 
