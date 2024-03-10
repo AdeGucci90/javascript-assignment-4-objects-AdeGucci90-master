@@ -29,7 +29,6 @@ var person = {
 
 console.log(person.fullName());
 
-
 // End of your code
 
 // Do not modify code below this line.

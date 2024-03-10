@@ -43,6 +43,7 @@ console.log(nestedObjects(['a', 'b', 'c']));
 console.log(nestedObjects([])); 
 // Output: null
 
+
 // End of your code
 
 // Do not modify code below this line.

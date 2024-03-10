@@ -11,6 +11,7 @@
  */
 
 // Write your code here
+
 function destructuring(obj) {
     // Destructure the object
     const { name = null, city = null, country = null} = obj;

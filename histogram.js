@@ -12,6 +12,7 @@
  */
 
 // Write your code here
+
 function histogram(str) {
     // Initialize an empty object to store the histogram
     var hist = {};

@@ -17,6 +17,7 @@ function spreadSyntax(obj1, obj2) {
     return combinedObject;
 }
 
+
 // Example usage:
 var obj1 = {
     name: "Irene",
