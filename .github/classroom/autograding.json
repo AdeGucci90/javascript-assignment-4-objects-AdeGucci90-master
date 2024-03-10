@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Tests objectProps.js",
+      "setup": "npm install",
+      "run": "./tests.sh objectProps.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    },
+    {
+      "name": "Tests objectMethods.js",
+      "setup": "npm install",
+      "run": "./tests.sh objectMethods.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    },
+    {
+      "name": "Tests nestedObjects.js",
+      "setup": "npm install",
+      "run": "./tests.sh nestedObjects.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    },
+    {
+      "name": "Tests spreadSyntax.js",
+      "setup": "npm install",
+      "run": "./tests.sh spreadSyntax.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    },
+    {
+      "name": "Tests destructuring.js",
+      "setup": "npm install",
+      "run": "./tests.sh destructuring.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    },
+    {
+      "name": "Tests histogram.js",
+      "setup": "npm install",
+      "run": "./tests.sh histogram.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    }
+  ]
+}

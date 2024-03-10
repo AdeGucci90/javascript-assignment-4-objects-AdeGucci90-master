@@ -1,0 +1,24 @@
+{
+	"name": "template-objects",
+	"version": "1.0.0",
+	"description": "JavaScript Assignment on Objects",
+	"scripts": {
+		"test": "jest"
+	},
+	"jest": {
+		"collectCoverage": true
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Azubi-Africa/template-objects.git"
+	},
+	"author": "FRONTEND_DEV_AZUBI",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Azubi-Africa/template-objects/issues"
+	},
+	"homepage": "https://github.com/Azubi-Africa/template-objects#readme",
+	"devDependencies": {
+		"jest": "^29.5.0"
+	}
+}
